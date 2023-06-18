@@ -1,4 +1,4 @@
-module github.com/eduncan911/podcast
+module github.com/ignoxx/podcast
 
 go 1.13
 
